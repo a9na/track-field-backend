@@ -1,0 +1,15 @@
+{
+  "name": "track-field-backend",
+  "version": "1.0.0",
+  "description": "Backend for Track and Field Management System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "cors": "^2.8.5",
+    "body-parser": "^1.19.0"
+  }
+}
